@@ -4,4 +4,4 @@ first line blah
 
 **Author name //lo crea en negrita**
 
-Linexxxxxxxxxxx para el conflicto
+resolvi
